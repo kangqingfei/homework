@@ -1,0 +1,30 @@
+[submodule "studentManageSystem_With_Qt"]
+	path = StudentManageSystem_With_Qt
+	url = git@github.com:kangqf/Homework-for-stuinfo.git
+[submodule "simpleCalculator_With_Qt"]
+	path = SimpleCalculator_With_Qt
+	url = git@github.com:kangqf/Calculator_by_QString_stack.git
+[submodule "HaffmanTree_With_Qt"]
+	path = HaffmanTree_With_Qt
+	url = git@github.com:kangqf/HaffmanTree.git
+[submodule "CreateGraphByAdjacentMatrix_With_Qt"]
+	path = CreateGraphByAdjacentMatrix_With_Qt
+	url = git@github.com:kangqf/Graph.git
+[submodule "SimpleTcpServer_With_Qt"]
+	path = SimpleTcpServer_With_Qt
+	url = git@github.com:kangqf/QTcp_Server.git
+[submodule "EnumerateProcessOnWindows_With_Qt"]
+	path = EnumerateProcessOnWindows_With_Qt
+	url = git@github.com:kangqf/Enum_Win_Process.git
+[submodule "ComReadDll_With_Qt"]
+	path = ComReadDll_With_Qt
+	url = git@github.com:kangqf/comReadDll.git
+[submodule "FirstHomeworkPushToGithub"]
+	path = FirstHomeworkPushToGithub
+	url = git@github.com:kangqf/shixun1.git
+[submodule "VoiceCommuicate_With_Qt"]
+	path = VoiceCommuicate_With_Qt
+	url = git@github.com:kangqf/MyUdpHomework.git
+[submodule "SimpleTcpClient_With_Qt"]
+	path = SimpleTcpClient_With_Qt
+	url = git@github.com:kangqf/QTcp_Socket.git
