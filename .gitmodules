@@ -1,8 +1,8 @@
-[submodule "studentManageSystem_With_Qt"]
-	path = studentManageSystem_With_Qt
+[submodule "StudentManageSystem_With_Qt"]
+	path = StudentManageSystem_With_Qt
 	url = git@github.com:kangqf/Homework-for-stuinfo.git
-[submodule "simpleCalculator_With_Qt"]
-	path = simpleCalculator_With_Qt
+[submodule "SimpleCalculator_With_Qt"]
+	path = SimpleCalculator_With_Qt
 	url = git@github.com:kangqf/Calculator_by_QString_stack.git
 [submodule "HaffmanTree_With_Qt"]
 	path = HaffmanTree_With_Qt
