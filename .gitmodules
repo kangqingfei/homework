@@ -28,3 +28,9 @@
 [submodule "SimpleTcpClient_With_Qt"]
 	path = SimpleTcpClient_With_Qt
 	url = git@github.com:kangqf/QTcp_Socket.git
+[submodule "StdentMSOnMySQL_With_Qt"]
+	path = StdentMSOnMySQL_With_Qt
+	url = git@github.com:kangqf/Mysql_stuinfo.git
+[submodule "StdentMS_With_Qt"]
+	path = StdentMS_With_Qt
+	url = git@github.com:kangqf/Homework-for-stuinfo.git
